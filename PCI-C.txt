@@ -1,0 +1,18 @@
+1 - Lane 1 TXP
+2 - Lane 1 RXP
+3 - Lane 2 TXP
+4 - Lane 2 RXP
+5 - Lane 3 TXP
+6 - Lane 3 RXP
+7 - Lane 4 TXP
+8 - Lane 4 RXP
+9 - PERST# (Power Reset)
+A - +12V
+B - +3.3V
+C - GND
+
+Distance:
+
+1 (3mm) 2 (5mm) 3 (3mm) 4 (5mm) 5 (3mm) 6 (5mm) 7 (3mm) 8
+                (12.5mm) 9 (12.5mm)
+A (3mm) A (3mm) A (5mm) B (3mm) B (3mm) B (5mm) C (3mm) C (3mm) C
